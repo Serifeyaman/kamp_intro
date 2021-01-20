@@ -16,7 +16,7 @@ namespace kamp_intro
 
         public void Ekle2(string urunAdi, string aciklama, double fiyat)
         {
-            Console.WriteLine()
+            Console.WriteLine();
         }
     }
 }
