@@ -32,7 +32,7 @@ namespace GenericsIntro
             get { return items.Length; }
         }
 
-        public T[] Items    //eleman sayısını verir
+        public T[] Items    //elemanları verir
         {
             get { return items; }
         }
